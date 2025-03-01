@@ -12,3 +12,4 @@
 |卡型号|显存|接口|下载|
 |---|---|---|---|
 |迪兰恒进 HD6850酷能|1GB GDDR5|PCIe2.0 x16|[TechPowerUp(UEFI)](https://www.techpowerup.com/vgabios/272622/272622)|
+|蓝宝石 HD7670|4GB GDDR5|PCIe2.0 x16|[TechPowerUp(UEFI)](https://www.techpowerup.com/vgabios/274004/274004)|
